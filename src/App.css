@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.ProfilePhoto
+{
+  height: 200px;
+  width: 300px;
+
+}
+
+.FullName
+{
+color: palevioletred;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Adresse
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:medium;
+}
